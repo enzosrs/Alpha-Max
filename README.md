@@ -47,7 +47,7 @@
 ### 🆓 Trial Experience (₹99)
 - 🎯 2 prediction slots/day 
 - ⏳ 1-day access
-- 🚫 No refunds | No Pro Mode | Basic support
+- 🚫 No refunds | No Pro Mode | 
 
 ### 💨 1-Day Boost (₹199)  
 - 🔄 6 fresh slots/day  
