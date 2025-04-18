@@ -20,7 +20,7 @@
  - 🎯 **AI Predictions** - Up to 90% accurate color predictions powered by AI  
 - 🔄 **12 Daily Slots** - Fresh predictions every 2 hours  
 - 🧠 **Smart Pro Mode** - Enhanced AI for Pro users  
-- 🔐 **Secure Login** - Fingerprint & Face ID authentication  
+- 🔐 **Secure Login** - With Key 
 - 🌙 **Dark Mode** - Night-friendly sleek UI  
 - 📊 **Real-Time Stats** - Win/Loss tracking for every user  
 - 🇮🇳/🇬🇧 **Language Toggle** - Hindi & English support  
