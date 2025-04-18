@@ -3,7 +3,9 @@
 
 
 S3 ALPHA MX
-Ultimate Color Trading Solution with 12 Daily Slots
+
+  Ultimate Color Trading Solution with 12 Daily Slots
+
 
 
 🚀 Major Upgrades in MX Version
@@ -30,42 +32,96 @@ Ultimate Color Trading Solution with 12 Daily Slots
   
     
       
-        Plan
-        Price (₹)
-        Refund %
-        Best For
+        💳 Plan
+        💰 Price (₹)
+        🔄 Refund %
+        ⏰ Slots/Day
+        🚀 Pro Mode
+        📞 Priority Support
+        🎯 Best For
       
     
     
       
-        3 Days
+        🌟 Trial
+        99
+        ❌ None
+        2
+        ❌ No
+        ❌ No
+        First-Time Users
+      
+      
+        📅 1 Day
+        199
+        ❌ None
+        6
+        ❌ No
+        ❌ No
+        Quick Testing
+      
+      
+        🗓️ 3 Days
         499
         ❌ None
-        Testing
+        12
+        ✅ Yes
+        ❌ No
+        Short-Term Trading
       
       
-        7 Days
+        🗓️ 7 Days
         799
         45%
+        12
+        ✅ Yes
+        ❌ No
         Casual Players
       
       
-        10 Days
+        🗓️ 10 Days
         999
         50%
+        12
+        ✅ Yes
+        ✅ Yes
         Serious Traders
       
       
-        15 Days
+        🗓️ 15 Days
         1599
         55%
+        12
+        ✅ Yes
+        ✅ Yes
         High Rollers
       
       
-        1 Month
+        🗓️ 1 Month
         2199
         60%
+        12
+        ✅ Yes
+        ✅ Yes
         Professionals
+      
+      
+        📆 Annual
+        9999
+        65%
+        12
+        ✅ Yes
+        ✅ Yes
+        Dedicated Traders
+      
+      
+        🔒 Lifetime
+        19999
+        70%
+        12
+        ✅ Yes
+        ✅ Yes
+        Elite Investors
       
     
   
@@ -89,18 +145,20 @@ Ultimate Color Trading Solution with 12 Daily Slots
 
 🔄 Enhanced Refund System
 
-  New Eligibility Rules
+  📜 New Eligibility Rules
   
-    Minimum 60% win rate in last 100 bets
-    Maximum 1 refund per key
-    Requires 5 consecutive loss screenshots
+    ✅ Minimum 60% win rate in last 100 bets
+    🔄 Maximum 1 refund per key
+    📸 Requires 5 consecutive loss screenshots
   
   
   
     📌 Refund Process
-    1. Check eligibility in Profile → Refund Status
-    2. Submit loss proofs via @SlizaAssistBot
-    3. Receive 40-60% within 24 hours
+    
+      🔍 Check eligibility in Profile → Refund Status
+      🤖 Submit loss proofs via @SlizaAssistBot
+      💸 Receive 40-70% within 24 hours
+    
   
 
 
@@ -109,29 +167,29 @@ Ultimate Color Trading Solution with 12 Daily Slots
 
   🔐 Login Page
   
-    Biometric Authentication: Secure login with fingerprint or face recognition for quick access.
-    Confetti Animation: Triggers a 3-second confetti effect on successful login key submission.
-    Device ID Copy: One-tap copy of unique device ID with animated feedback and confetti.
-    Error Handling: Animated error messages with shake effect for invalid keys or expired licenses.
-    Social Integration: Quick links to Telegram and Instagram for support and updates.
+    🔒 Biometric Authentication: Secure login with fingerprint or face recognition.
+    🎉 Confetti Animation: 3-second confetti effect on successful key submission.
+    📋 Device ID Copy: One-tap copy of device ID with animated feedback.
+    ⚠️ Error Handling: Animated shake effect for invalid keys or expired licenses.
+    🌐 Social Integration: Quick links to Telegram and Instagram for support.
   
 
   🎮 Game Page
   
-    Dynamic Game Grid: Responsive card layout showing available games with real-time slot status (e.g., 3/3 or Slots Over).
-    Slot Reset Timer: Displays countdown to 3PM IST slot reset with live updates every second.
-    Disabled Card Animations: Ripple effect and notification for games with no available slots.
-    Social Media Link: Direct Telegram link for community updates and support.
-    Coming Soon Teasers: New game cards with "Coming Soon" overlays for upcoming features.
+    📏 Dynamic Game Grid: Responsive card layout with real-time slot status.
+    ⏳ Slot Reset Timer: Countdown to 3PM IST reset, updated every second.
+    🚫 Disabled Card Animations: Ripple effect for games with no slots.
+    📣 Social Media Link: Direct Telegram link for community updates.
+    🔜 Coming Soon Teasers: New game cards with "Coming Soon" overlays.
   
 
   📈 Predictions Page
   
-    Real-Time Predictions: Live color trading predictions with confidence scores (e.g., 85% for Red).
-    Historical Tracking: View past predictions with win/loss outcomes and accuracy metrics.
-    Pro Mode Toggle: Enable high-risk, high-accuracy signals (+5% accuracy) during volatile periods.
-    Custom Alerts: Set sound or vibration alerts for new predictions or slot availability.
-    Heatmap Analytics: Visual win/loss heatmaps to identify trading patterns and optimize bets.
+    ⚡ Real-Time Predictions: Live color trading predictions with confidence scores.
+    📜 Historical Tracking: View past predictions with win/loss outcomes.
+    🎯 Pro Mode Toggle: Enable high-risk, high-accuracy signals (+5%).
+    🔔 Custom Alerts: Sound or vibration alerts for predictions and slots.
+    📊 Heatmap Analytics: Visual win/loss heatmaps for trading patterns.
   
 
 
@@ -139,55 +197,66 @@ Ultimate Color Trading Solution with 12 Daily Slots
 📊 Advanced Features
 
   
-    
     🚀 Pro Mode
-    Special algorithm for volatile periods, boosting prediction accuracy by 5%.
+    Special algorithm for volatile periods, boosting accuracy by 5%.
   
   
-    
     🌐 Bilingual UI
-    Toggle between Hindi and English for a personalized experience.
+    Toggle between Hindi and English for accessibility.
   
   
-    
     🔊 Sound Alerts
-    Custom notification tones for predictions and slot updates.
+    Custom tones for predictions and slot availability.
   
   
-    
     📈 Live Analytics
-    Win/loss heatmaps and real-time performance tracking.
+    Real-time win/loss heatmaps and performance tracking.
   
   
-    
     🤖 Auto-Bet Suggestions
     AI-driven bet recommendations based on market trends.
   
   
-    
     🌙 Dark Mode
     Eye-friendly dark theme for night trading sessions.
   
   
-    
     🔄 Multi-Device Sync
-    Seamless data sync across multiple devices with one key.
+    Seamless data sync across devices with one key.
   
   
-    
     📊 Custom Dashboards
-    Personalized widgets for predictions, stats, and alerts.
+    Personalized widgets for predictions and stats.
+  
+  
+    🛡️ AI Risk Assessment
+    Evaluates bet risks with predictive modeling.
+  
+  
+    📡 Real-Time Market Insights
+    Live updates on market trends and volatility.
+  
+  
+    👆 Gesture Controls
+    Swipe-based navigation for faster trading actions.
+  
+  
+    📴 Offline Mode
+    Access cached predictions and stats without internet.
   
 
 
 
 📲 How to Use?
 
-Download latest APK from official source
-Purchase key from @enzosrs (Telegram)
-Activate Pro Mode during peak hours
-Monitor slot availability (12/day)
-Claim refund if eligible via bot
+  
+    📥 Download: Get the latest APK from the official source.
+    💳 Purchase: Buy a key from @enzosrs on Telegram.
+    🎯 Activate: Enable Pro Mode during peak trading hours.
+    ⏰ Monitor: Track slot availability (12 daily slots).
+    🔄 Claim Refund: Submit eligible refund requests via bot.
+  
+
 
 
   
