@@ -56,26 +56,35 @@
 
 ## 🔁 Refund System
 
-### ✅ Eligibility:
-- Minimum **60% win rate**
-- Submit **5+ losing screenshots**
-- Claim within **24 hours**
-- **1 refund per key**
-- Must follow **official format**
+### ✅ Eligibility Criteria
+- 📉 Minimum 60% loss rate (60+ losses in 100 bets)
+- 📸 Submit 5+ losing screenshots with timestamps
+- ⏳ Claim within 24 hours of loss streak
+- 🔑 1 refund per purchased key
+
+### ⚠️ Important Conditions
+- ❌ No refund if win rate recovers to ≥60%
+- 🔄 Half-time partial refunds available
+- ✔️ Priority processing for trusted users
+
+### 📝 How to Claim
+1. For single tie bets: Submit 1 screenshot
+2. For loss streaks: Submit 5+ screenshots
+3. Use format:
 
 ### 💬 Submit Proof:
-- 🤖 Bot: [@SlizaAssistBot](https://t.me/SlizaAssistBot)
+- 🤖 Bot: [@SlizaAssistBot](https://t.me/slizaaibot)
 
 ### 💸 Payout:
 - UPI within **15–30 mins**
-- Refund range: **40%–70%**
+- Refund range: **40%–60%**
 
 
-
-
-
-
-
+### 💎 Why Choose Us?
+- 🎯 Industry's best single tie refund policy
+- 🔍 100% transparent process
+- ⏱️ 12-hour approval for trusted users
+- 💯 No hidden conditions
 
 
 
@@ -101,7 +110,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 - 🔹 [Join Telegram Channel](https://t.me/enzosrs)  
 - 🔹 [Contact Admin](https://t.me/enzosrs)  
-- 🔹 [Bot Help & Refunds](https://t.me/SlizaAssistBot)
+- 🔹 [Bot Help & Refunds](https://t.me/slizaaibot)
 
 ---
 
