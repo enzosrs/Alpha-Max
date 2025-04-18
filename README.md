@@ -42,17 +42,37 @@
 
 
 
-## 💸 Plans & Pricing
+## 💎 Premium Plans & Pricing
 
-| Plan        | Price (₹) | Refund % | Slots/Day | Pro Mode | Support |
-------------------------------------------------------------------------
-| 🧪 Trial     | 99        | ❌        | 2         | ❌        | ❌  |
-| ☑️ 1 Day     | 199       | ❌        | 6         | ❌        | ❌  |
-| ⏱️ 3 Days    | 499       | ❌        | 12        | ✅          ❌  |
-| 📆 7 Days    | 799       | 45%       | 12        | ✅        | ✅   |
-| 🔟 10 Days   | 999       | 50%       | 12        | ✅        | ✅   |
-| 🗓️ 15 Days   | 1599      | 55%       | 12        | ✅        | ✅   |
----
+### 🆓 Trial Experience (₹99)
+- 🎯 2 prediction slots/day 
+- ⏳ 1-day access
+- 🚫 No refunds | No Pro Mode | Basic support
+
+### 💨 1-Day Boost (₹199)  
+- 🔄 6 fresh slots/day  
+- ⏱️ 24-hour access  
+- 🚫 No refunds | AI Basic Mode  
+
+### ⚡ 3-Day Pro (₹499)  
+- 🌟 12 daily slots (every 2 hours)  
+- 🧠 Smart Pro Mode enabled  
+- 📅 72-hour full access  
+
+### 🏆 Weekly Elite (₹799)  
+- 💰 45% refund guarantee  
+- ✨ All Pro features  
+- 24/7 priority support  
+
+### 🔥 10-Day Champion (₹999)  
+- 💸 50% refund protection  
+- 📊 Advanced analytics  
+- 🔒 VIP support access  
+
+### 💎 15-Day VIP (₹1599)  
+- 🤑 55% refund assurance  
+- 🚀 All premium features  
+- 👑 Dedicated account manager  
 
 ## 🔁 Refund System
 
