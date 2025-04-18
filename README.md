@@ -119,7 +119,7 @@ If you like the project, please give it a ⭐ on GitHub. It helps us grow and re
 ```
 MIT License
 
-Copyright (c) 2024 Sakil Rana
+Copyright (c) 2025 Sakil Rana
 
 Permission is hereby granted, free of charge, to any person obtaining a copy...
 ```
