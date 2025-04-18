@@ -35,7 +35,7 @@
 ## 🛠️ How It Works
 
 1. **Purchase a key** through official Telegram
-2. **Log in** using Device ID + biometric (Face/Finger)
+2. **Log in** using Device ID & Key
 3. **Predict the color** using real-time AI data
 4. **View results** and repeat every 2 hours
 5. **Request refund** if eligible
@@ -45,13 +45,13 @@
 ## 💸 Plans & Pricing
 
 | Plan        | Price (₹) | Refund % | Slots/Day | Pro Mode | Support |
-|-------------|-----------|----------|-----------|----------|---------|
-| 🧪 Trial     | 99        | ❌        | 2         | ❌        | ❌       |
-| ☑️ 1 Day     | 199       | ❌        | 6         | ❌        | ❌       |
-| ⏱️ 3 Days    | 499       | ❌        | 12        | ✅        | ❌       |
-| 📆 7 Days    | 799       | 45%       | 12        | ✅        | ✅       |
-| 🔟 10 Days   | 999       | 50%       | 12        | ✅        | ✅       |
-| 🗓️ 15 Days   | 1599      | 55%       | 12        | ✅        | ✅       |
+------------------------------------------------------------------------
+| 🧪 Trial     | 99        | ❌        | 2         | ❌        | ❌  |
+| ☑️ 1 Day     | 199       | ❌        | 6         | ❌        | ❌  |
+| ⏱️ 3 Days    | 499       | ❌        | 12        | ✅          ❌  |
+| 📆 7 Days    | 799       | 45%       | 12        | ✅        | ✅   |
+| 🔟 10 Days   | 999       | 50%       | 12        | ✅        | ✅   |
+| 🗓️ 15 Days   | 1599      | 55%       | 12        | ✅        | ✅   |
 ---
 
 ## 🔁 Refund System
@@ -68,8 +68,8 @@
 - ✔️ Priority processing for trusted users
 
 ### 📝 How to Claim
-1. For single tie bets: Submit 1 screenshot
-2. For loss streaks: Submit 5+ screenshots
+1. 5 + Continuous Loss Screen Shot Submit In Bot
+2. Wait For Admin Aproval
 3. Use format:
 
 ### 💬 Submit Proof:
